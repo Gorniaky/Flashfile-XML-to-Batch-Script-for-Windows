@@ -1,0 +1,4 @@
+adb devices
+adb reboot-bootloader
+mfastboot devices
+mfastboot reboot-bootloader
